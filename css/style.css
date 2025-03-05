@@ -21379,6 +21379,13 @@ border-radius:20px 0 0 20px;
   transition: transform 0.3s ease;
   height: 100%;
 }
+
+.bg-dark-opacity1{
+  background: #fff5ed;
+  backdrop-filter: blur(10px);
+  transition: transform 0.3s ease;
+  height: 100%;
+}
 .bg-dark-opacity:hover {
   transform: translateY(-5px);
 }
